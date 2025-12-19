@@ -1,141 +1,98 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/docs-5c5": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-a68": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs-e44": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/examples/ros2-publisher-fd8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-examples-ros-2-publisher-176-4eb"
+    "__comp": "17896441",
+    "content": "1766c913"
   },
   "/docs/examples/ros2-service-e16": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-examples-ros-2-serviced-3-e-f7a"
+    "__comp": "17896441",
+    "content": "d3e85839"
   },
   "/docs/examples/ros2-subscriber-08a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-examples-ros-2-subscribercfb-add"
+    "__comp": "17896441",
+    "content": "cfb642fa"
   },
   "/docs/examples/urdf-example-886": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-examples-urdf-examplef-03-608"
+    "__comp": "17896441",
+    "content": "f03af044"
   },
   "/docs/glossary-a11": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-glossarye-74-cec"
+    "__comp": "17896441",
+    "content": "e747ec83"
   },
   "/docs/intro-61d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/docs/module-1-ros2/chapter-1-exercises-da1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-1-exercises-242-86b"
+    "__comp": "17896441",
+    "content": "242b638a"
   },
   "/docs/module-1-ros2/chapter-1-nodes-topics-services-b9a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-1-nodes-topics-services-15-f-cf7"
+    "__comp": "17896441",
+    "content": "15fcbb01"
   },
   "/docs/module-1-ros2/chapter-2-exercises-08d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-2-exercises-5-c-3-299"
+    "__comp": "17896441",
+    "content": "5c3c75e1"
   },
   "/docs/module-1-ros2/chapter-2-rclpy-agents-d4f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-2-rclpy-agents-9-d-2-d6b"
+    "__comp": "17896441",
+    "content": "9d271101"
   },
   "/docs/module-1-ros2/chapter-3-exercises-40f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-3-exercises-003-285"
+    "__comp": "17896441",
+    "content": "00331d58"
   },
   "/docs/module-1-ros2/chapter-3-urdf-modeling-249": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-3-urdf-modeling-20-a-f95"
+    "__comp": "17896441",
+    "content": "20ab22a4"
   },
   "/docs/module-1-ros2/chapter-4-control-architecture-ec2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-4-control-architecture-87-c-674"
+    "__comp": "17896441",
+    "content": "87c47bb3"
   },
   "/docs/module-1-ros2/chapter-4-exercises-dca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-4-exercises-155-de2"
+    "__comp": "17896441",
+    "content": "15518fe9"
   },
   "/docs/module-1-ros2/chapter-5-summary-exercises-5eb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-chapter-5-summary-exercises-8-f-1-610"
+    "__comp": "17896441",
+    "content": "8f136eb8"
   },
   "/docs/module-1-ros2/implementation-plan-cac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-implementation-plan-0-c-8-527"
+    "__comp": "17896441",
+    "content": "0c8f655e"
   },
   "/docs/module-1-ros2/intro-313": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-intro-370-7cf"
+    "__comp": "17896441",
+    "content": "3709f09d"
   },
   "/docs/module-1-ros2/module-summary-406": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-2-module-summaryb-43-dc2"
+    "__comp": "17896441",
+    "content": "b434db5b"
   },
   "/docs/notation-d34": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-notation-4-d-9-71d"
+    "__comp": "17896441",
+    "content": "4d971954"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---a-74-9d6"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
