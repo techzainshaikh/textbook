@@ -1,0 +1,15 @@
+{
+  "id": "examples/ros2-publisher",
+  "title": "ROS 2 Publisher Example",
+  "description": "Complete ROS 2 Publisher Node with WHAT/WHY Comments",
+  "source": "@site/docs/examples/ros2-publisher.md",
+  "sourceDirName": "examples",
+  "slug": "/examples/ros2-publisher",
+  "permalink": "/docs/examples/ros2-publisher",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/examples/ros2-publisher.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

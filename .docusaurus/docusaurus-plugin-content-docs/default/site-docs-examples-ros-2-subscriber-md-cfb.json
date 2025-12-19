@@ -1,0 +1,15 @@
+{
+  "id": "examples/ros2-subscriber",
+  "title": "ROS 2 Subscriber Example",
+  "description": "Complete ROS 2 Subscriber Node with WHAT/WHY Comments",
+  "source": "@site/docs/examples/ros2-subscriber.md",
+  "sourceDirName": "examples",
+  "slug": "/examples/ros2-subscriber",
+  "permalink": "/docs/examples/ros2-subscriber",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/examples/ros2-subscriber.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

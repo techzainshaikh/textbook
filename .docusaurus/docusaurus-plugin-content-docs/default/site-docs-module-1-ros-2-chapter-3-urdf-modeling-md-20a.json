@@ -1,0 +1,36 @@
+{
+  "id": "module-1-ros2/chapter-3-urdf-modeling",
+  "title": "Chapter 3 - URDF Humanoid Modeling",
+  "description": "Creating robot models for simulation and control using URDF",
+  "source": "@site/docs/module-1-ros2/chapter-3-urdf-modeling.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-3-urdf-modeling",
+  "permalink": "/docs/module-1-ros2/chapter-3-urdf-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/chapter-3-urdf-modeling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 3 - URDF Humanoid Modeling",
+    "description": "Creating robot models for simulation and control using URDF",
+    "keywords": [
+      "urdf",
+      "robot modeling",
+      "humanoid",
+      "simulation",
+      "kinematics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2 - Exercises",
+    "permalink": "/docs/module-1-ros2/chapter-2-exercises"
+  },
+  "next": {
+    "title": "Chapter 3 - Exercises",
+    "permalink": "/docs/module-1-ros2/chapter-3-exercises"
+  }
+}

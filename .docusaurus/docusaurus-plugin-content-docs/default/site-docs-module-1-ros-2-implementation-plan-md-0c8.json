@@ -1,0 +1,37 @@
+{
+  "id": "module-1-ros2/implementation-plan",
+  "title": "Module Implementation Plan",
+  "description": "Complete implementation plan for ROS 2 fundamentals in humanoid robotics",
+  "source": "@site/docs/module-1-ros2/implementation-plan.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/implementation-plan",
+  "permalink": "/docs/module-1-ros2/implementation-plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/implementation-plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "Module Implementation Plan",
+    "description": "Complete implementation plan for ROS 2 fundamentals in humanoid robotics",
+    "keywords": [
+      "ros2",
+      "implementation",
+      "plan",
+      "humanoid",
+      "robotics",
+      "fundamentals"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5 - Summary and Exercises",
+    "permalink": "/docs/module-1-ros2/chapter-5-summary-exercises"
+  },
+  "next": {
+    "title": "Module Summary",
+    "permalink": "/docs/module-1-ros2/module-summary"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p docs src static examples)",
+      "Bash(npm run build)"
+    ]
+  }
+}

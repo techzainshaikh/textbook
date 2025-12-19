@@ -1,0 +1,32 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Introduction to Physical AI and Humanoid Robotics",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction",
+    "description": "Introduction to Physical AI and Humanoid Robotics",
+    "keywords": [
+      "physical ai",
+      "humanoid robotics",
+      "robotics",
+      "ai",
+      "textbook"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  }
+}

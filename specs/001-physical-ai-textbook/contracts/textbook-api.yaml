@@ -1,0 +1,229 @@
+# Textbook Content API Contract
+
+## Overview
+This contract defines the API endpoints for the Physical AI and Humanoid Robotics textbook system. Since this is a static site, these represent the logical interfaces for content retrieval and search functionality.
+
+## Base URL
+```
+https://physical-ai-book-humanoid.pages.dev
+```
+
+## Content Endpoints
+
+### Get Module List
+```
+GET /api/modules
+```
+
+**Description**: Retrieve a list of all textbook modules
+
+**Response**:
+```json
+{
+  "modules": [
+    {
+      "id": "module-1-ros2",
+      "title": "The Robotic Nervous System (ROS 2)",
+      "description": "Introduction to ROS 2 fundamentals",
+      "chapters": ["chapter-1-nodes-topics", "chapter-2-rclpy-agents", "..."],
+      "prerequisites": ["Python basics", "Linux command line"],
+      "learningObjectives": ["Understand ROS 2 architecture", "Implement basic ROS 2 nodes"]
+    }
+  ]
+}
+```
+
+**Success Response**:
+- Code: `200`
+- Content-Type: `application/json`
+
+### Get Module Details
+```
+GET /api/modules/{moduleId}
+```
+
+**Description**: Retrieve detailed information about a specific module
+
+**Path Parameters**:
+- `moduleId`: String - The unique identifier of the module
+
+**Response**:
+```json
+{
+  "id": "module-1-ros2",
+  "title": "The Robotic Nervous System (ROS 2)",
+  "description": "Introduction to ROS 2 fundamentals",
+  "chapters": [
+    {
+      "id": "chapter-1-nodes-topics",
+      "title": "Nodes, Topics, Services, Actions",
+      "learningObjectives": ["Understand ROS 2 communication patterns"],
+      "prerequisites": ["Basic Python knowledge"],
+      "url": "/docs/module-1-ros2/chapter-1-nodes-topics"
+    }
+  ],
+  "prerequisites": ["Python basics", "Linux command line"],
+  "learningObjectives": ["Understand ROS 2 architecture", "Implement basic ROS 2 nodes"]
+}
+```
+
+**Success Response**:
+- Code: `200`
+- Content-Type: `application/json`
+
+### Get Chapter Content
+```
+GET /api/chapters/{chapterId}
+```
+
+**Description**: Retrieve the content of a specific chapter
+
+**Path Parameters**:
+- `chapterId`: String - The unique identifier of the chapter
+
+**Response**:
+```json
+{
+  "id": "chapter-1-nodes-topics",
+  "title": "Nodes, Topics, Services, Actions",
+  "moduleId": "module-1-ros2",
+  "learningObjectives": [
+    "Understand ROS 2 communication patterns",
+    "Implement publisher and subscriber nodes"
+  ],
+  "prerequisites": [
+    "Basic Python knowledge",
+    "Understanding of asynchronous programming"
+  ],
+  "content": {
+    "coreConcepts": "# Core Concepts\n\nROS 2 provides several communication patterns...",
+    "implementation": "# Implementation\n\n```python\n# Example code here\n```",
+    "examples": [
+      {
+        "title": "Simple Publisher",
+        "code": "import rclpy\nfrom rclpy.node import Node\n...",
+        "dependencies": ["rclpy==4.2.0"],
+        "comments": {
+          "what": "This code creates a ROS 2 publisher node",
+          "why": "To demonstrate basic message publishing in ROS 2"
+        }
+      }
+    ],
+    "summary": "In this chapter, we covered...",
+    "exercises": [
+      {
+        "id": "exercise-1",
+        "type": "conceptual",
+        "title": "Communication Patterns",
+        "description": "Explain the difference between topics and services in ROS 2",
+        "difficulty": "beginner"
+      }
+    ]
+  },
+  "mathematicalConcepts": [
+    {
+      "id": "math-1",
+      "expression": "T = \\prod_{i=1}^{n} ^{i-1}A_i",
+      "derivation": "The transformation matrix is calculated as...",
+      "citation": null
+    }
+  ],
+  "diagrams": [
+    {
+      "id": "diagram-1",
+      "title": "ROS 2 Architecture",
+      "mermaidCode": "graph TD\n    A[Node] --> B[Topic]\n    C[Service] --> A",
+      "altText": "Diagram showing ROS 2 node communication patterns"
+    }
+  ]
+}
+```
+
+**Success Response**:
+- Code: `200`
+- Content-Type: `application/json`
+
+### Search Content
+```
+GET /api/search?q={query}
+```
+
+**Description**: Search across all textbook content
+
+**Query Parameters**:
+- `q`: String - Search query term
+
+**Response**:
+```json
+{
+  "query": "forward kinematics",
+  "results": [
+    {
+      "id": "chapter-3-kinematics",
+      "title": "Forward and Inverse Kinematics",
+      "moduleId": "module-3-ai-brain",
+      "url": "/docs/module-3-ai-brain/chapter-3-kinematics",
+      "preview": "Forward kinematics is the process of calculating the position...",
+      "relevance": 0.95
+    }
+  ],
+  "totalResults": 1,
+  "page": 1,
+  "perPage": 10
+}
+```
+
+**Success Response**:
+- Code: `200`
+- Content-Type: `application/json`
+
+## Error Responses
+
+### 404 Not Found
+```json
+{
+  "error": {
+    "code": "RESOURCE_NOT_FOUND",
+    "message": "The requested resource was not found",
+    "details": "Module or chapter with the specified ID does not exist"
+  }
+}
+```
+
+### 500 Internal Server Error
+```json
+{
+  "error": {
+    "code": "INTERNAL_ERROR",
+    "message": "An unexpected error occurred",
+    "details": "Please try again later or contact support"
+  }
+}
+```
+
+## Content Validation Rules
+
+### Chapter Structure Requirements
+- **Learning Objectives**: Array of 1-5 measurable outcomes
+- **Prerequisites**: Array of 0-5 prerequisite knowledge items
+- **Core Concepts**: Non-empty string with theoretical foundations
+- **Implementation**: Non-empty string with practical application
+- **Examples**: Array of 1+ executable code examples
+- **Summary**: Non-empty string with key takeaways
+- **Exercises**: Array of 3+ exercises with different types (conceptual, logical, implementation)
+
+### Code Example Requirements
+- **Completeness**: Must be fully executable without modification
+- **Comments**: Must include both "WHAT" (function) and "WHY" (reasoning) comments
+- **Dependencies**: Must specify exact versions of required packages
+- **Expected Output**: Should document what the student should see when running
+
+### Mathematical Concept Requirements
+- **Derivation or Citation**: Must include either formal derivation or APA-formatted citation
+- **Expression**: Must be properly formatted mathematical notation
+- **Application**: Must explain how the concept applies to robotics
+
+## Versioning
+- This contract follows semantic versioning
+- Breaking changes to the API will increment the major version
+- Current version: `1.0.0`
