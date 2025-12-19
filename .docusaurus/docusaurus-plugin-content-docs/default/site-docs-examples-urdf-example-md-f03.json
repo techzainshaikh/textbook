@@ -1,0 +1,15 @@
+{
+  "id": "examples/urdf-example",
+  "title": "URDF Example",
+  "description": "Complete Humanoid Robot URDF Model with WHAT/WHY Comments",
+  "source": "@site/docs/examples/urdf-example.md",
+  "sourceDirName": "examples",
+  "slug": "/examples/urdf-example",
+  "permalink": "/docs/examples/urdf-example",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/examples/urdf-example.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,37 @@
+{
+  "id": "module-1-ros2/chapter-2-rclpy-agents",
+  "title": "Chapter 2 - rclpy-based Python Agents",
+  "description": "Developing Python nodes for humanoid robot control using rclpy",
+  "source": "@site/docs/module-1-ros2/chapter-2-rclpy-agents.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-2-rclpy-agents",
+  "permalink": "/docs/module-1-ros2/chapter-2-rclpy-agents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/chapter-2-rclpy-agents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 2 - rclpy-based Python Agents",
+    "description": "Developing Python nodes for humanoid robot control using rclpy",
+    "keywords": [
+      "rclpy",
+      "python",
+      "ros2",
+      "agents",
+      "humanoid",
+      "control"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1 - Exercises",
+    "permalink": "/docs/module-1-ros2/chapter-1-exercises"
+  },
+  "next": {
+    "title": "Chapter 2 - Exercises",
+    "permalink": "/docs/module-1-ros2/chapter-2-exercises"
+  }
+}

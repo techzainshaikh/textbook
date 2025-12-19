@@ -1,0 +1,119 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "examples/ros2-publisher",
+              "path": "/docs/examples/ros2-publisher"
+            },
+            {
+              "id": "examples/ros2-service",
+              "path": "/docs/examples/ros2-service"
+            },
+            {
+              "id": "examples/ros2-subscriber",
+              "path": "/docs/examples/ros2-subscriber"
+            },
+            {
+              "id": "examples/urdf-example",
+              "path": "/docs/examples/urdf-example"
+            },
+            {
+              "id": "glossary",
+              "path": "/docs/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-1-exercises",
+              "path": "/docs/module-1-ros2/chapter-1-exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-1-nodes-topics-services",
+              "path": "/docs/module-1-ros2/chapter-1-nodes-topics-services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-2-exercises",
+              "path": "/docs/module-1-ros2/chapter-2-exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-2-rclpy-agents",
+              "path": "/docs/module-1-ros2/chapter-2-rclpy-agents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-3-exercises",
+              "path": "/docs/module-1-ros2/chapter-3-exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-3-urdf-modeling",
+              "path": "/docs/module-1-ros2/chapter-3-urdf-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-4-control-architecture",
+              "path": "/docs/module-1-ros2/chapter-4-control-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-4-exercises",
+              "path": "/docs/module-1-ros2/chapter-4-exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-5-summary-exercises",
+              "path": "/docs/module-1-ros2/chapter-5-summary-exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/implementation-plan",
+              "path": "/docs/module-1-ros2/implementation-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/intro",
+              "path": "/docs/module-1-ros2/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/module-summary",
+              "path": "/docs/module-1-ros2/module-summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "notation",
+              "path": "/docs/notation",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

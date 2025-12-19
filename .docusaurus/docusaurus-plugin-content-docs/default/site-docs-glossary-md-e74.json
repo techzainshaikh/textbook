@@ -1,0 +1,36 @@
+{
+  "id": "glossary",
+  "title": "Glossary",
+  "description": "Key terms and definitions for Physical AI and Humanoid Robotics",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/docs/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Glossary",
+    "description": "Key terms and definitions for Physical AI and Humanoid Robotics",
+    "keywords": [
+      "glossary",
+      "definitions",
+      "robotics",
+      "ai",
+      "terms"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Notation",
+    "permalink": "/docs/notation"
+  }
+}

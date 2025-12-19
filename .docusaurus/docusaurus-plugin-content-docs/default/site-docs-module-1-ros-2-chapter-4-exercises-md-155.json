@@ -1,0 +1,37 @@
+{
+  "id": "module-1-ros2/chapter-4-exercises",
+  "title": "Chapter 4 - Exercises",
+  "description": "Exercises for ROS 2 control architecture in humanoid robotics",
+  "source": "@site/docs/module-1-ros2/chapter-4-exercises.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-4-exercises",
+  "permalink": "/docs/module-1-ros2/chapter-4-exercises",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/chapter-4-exercises.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Chapter 4 - Exercises",
+    "description": "Exercises for ROS 2 control architecture in humanoid robotics",
+    "keywords": [
+      "control",
+      "architecture",
+      "ros2",
+      "exercises",
+      "humanoid",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4 - ROS 2 Control Architecture",
+    "permalink": "/docs/module-1-ros2/chapter-4-control-architecture"
+  },
+  "next": {
+    "title": "Chapter 5 - Summary and Exercises",
+    "permalink": "/docs/module-1-ros2/chapter-5-summary-exercises"
+  }
+}

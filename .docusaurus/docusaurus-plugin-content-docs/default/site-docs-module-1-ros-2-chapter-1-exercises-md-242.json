@@ -1,0 +1,36 @@
+{
+  "id": "module-1-ros2/chapter-1-exercises",
+  "title": "Chapter 1 - Exercises",
+  "description": "Exercises for ROS 2 communication patterns in humanoid robotics",
+  "source": "@site/docs/module-1-ros2/chapter-1-exercises.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-1-exercises",
+  "permalink": "/docs/module-1-ros2/chapter-1-exercises",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/chapter-1-exercises.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Chapter 1 - Exercises",
+    "description": "Exercises for ROS 2 communication patterns in humanoid robotics",
+    "keywords": [
+      "ros2",
+      "exercises",
+      "communication",
+      "patterns",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1 - Nodes, Topics, Services, Actions",
+    "permalink": "/docs/module-1-ros2/chapter-1-nodes-topics-services"
+  },
+  "next": {
+    "title": "Chapter 2 - rclpy-based Python Agents",
+    "permalink": "/docs/module-1-ros2/chapter-2-rclpy-agents"
+  }
+}

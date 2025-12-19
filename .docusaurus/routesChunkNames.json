@@ -1,0 +1,141 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-5c5": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-a68": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-e44": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/examples/ros2-publisher-fd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-ros-2-publisher-176-4eb"
+  },
+  "/docs/examples/ros2-service-e16": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-ros-2-serviced-3-e-f7a"
+  },
+  "/docs/examples/ros2-subscriber-08a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-ros-2-subscribercfb-add"
+  },
+  "/docs/examples/urdf-example-886": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-urdf-examplef-03-608"
+  },
+  "/docs/glossary-a11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-glossarye-74-cec"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/module-1-ros2/chapter-1-exercises-da1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-1-exercises-242-86b"
+  },
+  "/docs/module-1-ros2/chapter-1-nodes-topics-services-b9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-1-nodes-topics-services-15-f-cf7"
+  },
+  "/docs/module-1-ros2/chapter-2-exercises-08d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-2-exercises-5-c-3-299"
+  },
+  "/docs/module-1-ros2/chapter-2-rclpy-agents-d4f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-2-rclpy-agents-9-d-2-d6b"
+  },
+  "/docs/module-1-ros2/chapter-3-exercises-40f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-3-exercises-003-285"
+  },
+  "/docs/module-1-ros2/chapter-3-urdf-modeling-249": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-3-urdf-modeling-20-a-f95"
+  },
+  "/docs/module-1-ros2/chapter-4-control-architecture-ec2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-4-control-architecture-87-c-674"
+  },
+  "/docs/module-1-ros2/chapter-4-exercises-dca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-4-exercises-155-de2"
+  },
+  "/docs/module-1-ros2/chapter-5-summary-exercises-5eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-5-summary-exercises-8-f-1-610"
+  },
+  "/docs/module-1-ros2/implementation-plan-cac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-implementation-plan-0-c-8-527"
+  },
+  "/docs/module-1-ros2/intro-313": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-intro-370-7cf"
+  },
+  "/docs/module-1-ros2/module-summary-406": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-module-summaryb-43-dc2"
+  },
+  "/docs/notation-d34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-notation-4-d-9-71d"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---a-74-9d6"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

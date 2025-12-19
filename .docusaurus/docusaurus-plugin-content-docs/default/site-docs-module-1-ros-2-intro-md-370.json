@@ -1,0 +1,37 @@
+{
+  "id": "module-1-ros2/intro",
+  "title": "Module 1 - The Robotic Nervous System (ROS 2)",
+  "description": "Introduction to ROS 2 fundamentals for humanoid robotics",
+  "source": "@site/docs/module-1-ros2/intro.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/intro",
+  "permalink": "/docs/module-1-ros2/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 1 - The Robotic Nervous System (ROS 2)",
+    "description": "Introduction to ROS 2 fundamentals for humanoid robotics",
+    "keywords": [
+      "ros2",
+      "robotics",
+      "nodes",
+      "topics",
+      "services",
+      "actions"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notation",
+    "permalink": "/docs/notation"
+  },
+  "next": {
+    "title": "Chapter 1 - Nodes, Topics, Services, Actions",
+    "permalink": "/docs/module-1-ros2/chapter-1-nodes-topics-services"
+  }
+}

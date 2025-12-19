@@ -1,0 +1,35 @@
+{
+  "id": "notation",
+  "title": "Notation",
+  "description": "Mathematical and technical notation used in the textbook",
+  "source": "@site/docs/notation.md",
+  "sourceDirName": ".",
+  "slug": "/notation",
+  "permalink": "/docs/notation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/notation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Notation",
+    "description": "Mathematical and technical notation used in the textbook",
+    "keywords": [
+      "notation",
+      "mathematical notation",
+      "robotics notation",
+      "symbols"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  },
+  "next": {
+    "title": "Module 1 - The Robotic Nervous System (ROS 2)",
+    "permalink": "/docs/module-1-ros2/intro"
+  }
+}

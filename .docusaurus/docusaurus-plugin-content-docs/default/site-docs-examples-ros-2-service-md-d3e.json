@@ -1,0 +1,15 @@
+{
+  "id": "examples/ros2-service",
+  "title": "ROS 2 Service Example",
+  "description": "Complete ROS 2 Service Node with WHAT/WHY Comments",
+  "source": "@site/docs/examples/ros2-service.md",
+  "sourceDirName": "examples",
+  "slug": "/examples/ros2-service",
+  "permalink": "/docs/examples/ros2-service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/examples/ros2-service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

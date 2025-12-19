@@ -1,0 +1,34 @@
+{
+  "id": "module-1-ros2/module-summary",
+  "title": "Module Summary",
+  "description": "Comprehensive summary of ROS 2 fundamentals for humanoid robotics",
+  "source": "@site/docs/module-1-ros2/module-summary.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/module-summary",
+  "permalink": "/docs/module-1-ros2/module-summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/module-summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12,
+    "title": "Module Summary",
+    "description": "Comprehensive summary of ROS 2 fundamentals for humanoid robotics",
+    "keywords": [
+      "ros2",
+      "summary",
+      "humanoid",
+      "robotics",
+      "fundamentals",
+      "communication",
+      "control"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module Implementation Plan",
+    "permalink": "/docs/module-1-ros2/implementation-plan"
+  }
+}
