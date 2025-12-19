@@ -208,3 +208,10 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 
 ## Code Standards
 See `.specify/memory/constitution.md` for code quality, testing, performance, security, and architecture principles.
+
+## Active Technologies
+- Markdown/MDX with Docusaurus v3 (latest ~3.9.x as of Dec 2025) + Docusaurus, Node.js, ROS 2 Kilted Kaiju, NVIDIA Isaac Sim 5.0, Modern Gazebo (Jetty/Gz), Unity, OpenAI Whisper (001-physical-ai-textbook)
+- Static file-based (no database required) (001-physical-ai-textbook)
+
+## Recent Changes
+- 001-physical-ai-textbook: Added Markdown/MDX with Docusaurus v3 (latest ~3.9.x as of Dec 2025) + Docusaurus, Node.js, ROS 2 Kilted Kaiju, NVIDIA Isaac Sim 5.0, Modern Gazebo (Jetty/Gz), Unity, OpenAI Whisper

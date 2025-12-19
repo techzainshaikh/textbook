@@ -1,0 +1,80 @@
+/**
+ * Copyright (c) 2017-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/* You can override the default Docusaurus styling with custom CSS here */
+
+:root {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-code-font-size: 95%;
+}
+
+/* Custom styles for the Physical AI and Humanoid Robotics textbook */
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Special styling for mathematical content */
+.math-equation {
+  text-align: center;
+  margin: 1.5rem 0;
+  font-size: 1.2rem;
+}
+
+/* Styling for code examples with WHAT/WHY comments */
+.code-what-comment {
+  color: #22863a;
+  font-weight: bold;
+}
+
+.code-why-comment {
+  color: #032f62;
+  font-style: italic;
+}
+
+/* Styling for exercise sections */
+.exercise-box {
+  border: 2px solid #444;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  background-color: #f8f9fa;
+}
+
+html[data-theme='dark'] .exercise-box {
+  background-color: #2a2a2a;
+}
+
+.exercise-title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #007bff;
+}
+
+/* Styling for learning objectives */
+.learning-objectives {
+  background-color: #e8f4fd;
+  border-left: 4px solid #007bff;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+html[data-theme='dark'] .learning-objectives {
+  background-color: #1a3a5f;
+}
