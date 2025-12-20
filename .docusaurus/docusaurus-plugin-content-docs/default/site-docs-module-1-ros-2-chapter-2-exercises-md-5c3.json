@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2/chapter-2-exercises.md",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/chapter-2-exercises",
-  "permalink": "/docs/module-1-ros2/chapter-2-exercises",
+  "permalink": "/textbook/docs/module-1-ros2/chapter-2-exercises",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/chapter-2-exercises.md",
@@ -28,10 +28,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 2 - rclpy-based Python Agents",
-    "permalink": "/docs/module-1-ros2/chapter-2-rclpy-agents"
+    "permalink": "/textbook/docs/module-1-ros2/chapter-2-rclpy-agents"
   },
   "next": {
     "title": "Chapter 3 - URDF Humanoid Modeling",
-    "permalink": "/docs/module-1-ros2/chapter-3-urdf-modeling"
+    "permalink": "/textbook/docs/module-1-ros2/chapter-3-urdf-modeling"
   }
 }

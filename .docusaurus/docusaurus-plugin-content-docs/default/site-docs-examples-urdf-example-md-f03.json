@@ -5,7 +5,7 @@
   "source": "@site/docs/examples/urdf-example.md",
   "sourceDirName": "examples",
   "slug": "/examples/urdf-example",
-  "permalink": "/docs/examples/urdf-example",
+  "permalink": "/textbook/docs/examples/urdf-example",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/examples/urdf-example.md",

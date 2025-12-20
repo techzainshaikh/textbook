@@ -1,94 +1,182 @@
 {
-  "/docs-5c5": {
+  "/textbook/docs-8a2": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-a68": {
+  "/textbook/docs-471": {
     "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__props": "03e23960"
   },
-  "/docs-e44": {
+  "/textbook/docs-3f6": {
     "__comp": "a94703ab"
   },
-  "/docs/examples/ros2-publisher-fd8": {
+  "/textbook/docs/capstone-project-82c": {
+    "__comp": "17896441",
+    "content": "7bd3979a"
+  },
+  "/textbook/docs/examples/ros2-publisher-338": {
     "__comp": "17896441",
     "content": "1766c913"
   },
-  "/docs/examples/ros2-service-e16": {
+  "/textbook/docs/examples/ros2-service-c5b": {
     "__comp": "17896441",
     "content": "d3e85839"
   },
-  "/docs/examples/ros2-subscriber-08a": {
+  "/textbook/docs/examples/ros2-subscriber-707": {
     "__comp": "17896441",
     "content": "cfb642fa"
   },
-  "/docs/examples/urdf-example-886": {
+  "/textbook/docs/examples/urdf-example-ecc": {
     "__comp": "17896441",
     "content": "f03af044"
   },
-  "/docs/glossary-a11": {
+  "/textbook/docs/glossary-2c2": {
     "__comp": "17896441",
     "content": "e747ec83"
   },
-  "/docs/intro-61d": {
+  "/textbook/docs/intro-94a": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/module-1-ros2/chapter-1-exercises-da1": {
+  "/textbook/docs/module-1-ros2/chapter-1-exercises-619": {
     "__comp": "17896441",
     "content": "242b638a"
   },
-  "/docs/module-1-ros2/chapter-1-nodes-topics-services-b9a": {
+  "/textbook/docs/module-1-ros2/chapter-1-nodes-topics-services-f7c": {
     "__comp": "17896441",
     "content": "15fcbb01"
   },
-  "/docs/module-1-ros2/chapter-2-exercises-08d": {
+  "/textbook/docs/module-1-ros2/chapter-2-exercises-051": {
     "__comp": "17896441",
     "content": "5c3c75e1"
   },
-  "/docs/module-1-ros2/chapter-2-rclpy-agents-d4f": {
+  "/textbook/docs/module-1-ros2/chapter-2-rclpy-agents-2eb": {
     "__comp": "17896441",
     "content": "9d271101"
   },
-  "/docs/module-1-ros2/chapter-3-exercises-40f": {
+  "/textbook/docs/module-1-ros2/chapter-3-exercises-721": {
     "__comp": "17896441",
     "content": "00331d58"
   },
-  "/docs/module-1-ros2/chapter-3-urdf-modeling-249": {
+  "/textbook/docs/module-1-ros2/chapter-3-urdf-modeling-d89": {
     "__comp": "17896441",
     "content": "20ab22a4"
   },
-  "/docs/module-1-ros2/chapter-4-control-architecture-ec2": {
+  "/textbook/docs/module-1-ros2/chapter-4-control-architecture-0c5": {
     "__comp": "17896441",
     "content": "87c47bb3"
   },
-  "/docs/module-1-ros2/chapter-4-exercises-dca": {
+  "/textbook/docs/module-1-ros2/chapter-4-exercises-a44": {
     "__comp": "17896441",
     "content": "15518fe9"
   },
-  "/docs/module-1-ros2/chapter-5-summary-exercises-5eb": {
+  "/textbook/docs/module-1-ros2/chapter-5-summary-exercises-602": {
     "__comp": "17896441",
     "content": "8f136eb8"
   },
-  "/docs/module-1-ros2/implementation-plan-cac": {
+  "/textbook/docs/module-1-ros2/implementation-plan-54d": {
     "__comp": "17896441",
     "content": "0c8f655e"
   },
-  "/docs/module-1-ros2/intro-313": {
+  "/textbook/docs/module-1-ros2/intro-9fb": {
     "__comp": "17896441",
     "content": "3709f09d"
   },
-  "/docs/module-1-ros2/module-summary-406": {
+  "/textbook/docs/module-1-ros2/module-summary-96d": {
     "__comp": "17896441",
     "content": "b434db5b"
   },
-  "/docs/notation-d34": {
+  "/textbook/docs/module-2-digital-twin/chapter-1-physics-simulation-4f9": {
+    "__comp": "17896441",
+    "content": "32356006"
+  },
+  "/textbook/docs/module-2-digital-twin/chapter-2-sensor-simulation-132": {
+    "__comp": "17896441",
+    "content": "09bc6df3"
+  },
+  "/textbook/docs/module-2-digital-twin/chapter-3-environment-modeling-350": {
+    "__comp": "17896441",
+    "content": "78d65146"
+  },
+  "/textbook/docs/module-2-digital-twin/chapter-4-capstone-integration-e2a": {
+    "__comp": "17896441",
+    "content": "3928c94f"
+  },
+  "/textbook/docs/module-2-digital-twin/chapter-4-unity-visualization-2e4": {
+    "__comp": "17896441",
+    "content": "6bb7a718"
+  },
+  "/textbook/docs/module-2-digital-twin/intro-a9a": {
+    "__comp": "17896441",
+    "content": "57dadb1c"
+  },
+  "/textbook/docs/module-2-digital-twin/module-summary-f87": {
+    "__comp": "17896441",
+    "content": "a0b453c1"
+  },
+  "/textbook/docs/module-3-ai-brain/chapter-1-isaac-platform-ad6": {
+    "__comp": "17896441",
+    "content": "0de35cb3"
+  },
+  "/textbook/docs/module-3-ai-brain/chapter-2-synthetic-data-366": {
+    "__comp": "17896441",
+    "content": "e7f796c2"
+  },
+  "/textbook/docs/module-3-ai-brain/chapter-3-perception-pipelines-0ba": {
+    "__comp": "17896441",
+    "content": "7f8c421a"
+  },
+  "/textbook/docs/module-3-ai-brain/chapter-4-nav2-planning-f29": {
+    "__comp": "17896441",
+    "content": "739033f5"
+  },
+  "/textbook/docs/module-3-ai-brain/chapter-5-reinforcement-learning-7bd": {
+    "__comp": "17896441",
+    "content": "83648cb5"
+  },
+  "/textbook/docs/module-3-ai-brain/chapter-6-sim-to-real-61a": {
+    "__comp": "17896441",
+    "content": "7130626d"
+  },
+  "/textbook/docs/module-3-ai-brain/intro-f2a": {
+    "__comp": "17896441",
+    "content": "50387d27"
+  },
+  "/textbook/docs/module-4-vla/chapter-1-vla-overview-2c6": {
+    "__comp": "17896441",
+    "content": "60e4c4be"
+  },
+  "/textbook/docs/module-4-vla/chapter-2-speech-recognition-dc4": {
+    "__comp": "17896441",
+    "content": "c1ea27b3"
+  },
+  "/textbook/docs/module-4-vla/chapter-3-llm-planning-243": {
+    "__comp": "17896441",
+    "content": "2c1abae2"
+  },
+  "/textbook/docs/module-4-vla/chapter-4-ros2-actions-1f6": {
+    "__comp": "17896441",
+    "content": "0873ceb0"
+  },
+  "/textbook/docs/module-4-vla/chapter-5-multimodal-perception-1b3": {
+    "__comp": "17896441",
+    "content": "1880acaa"
+  },
+  "/textbook/docs/module-4-vla/intro-325": {
+    "__comp": "17896441",
+    "content": "3613bb70"
+  },
+  "/textbook/docs/module-4-vla/module-summary-2eb": {
+    "__comp": "17896441",
+    "content": "fa698c00"
+  },
+  "/textbook/docs/notation-acd": {
     "__comp": "17896441",
     "content": "4d971954"
   },
-  "/-2e1": {
+  "/textbook/-d4f": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

@@ -1,0 +1,35 @@
+{
+  "id": "module-3-ai-brain/chapter-1-isaac-platform",
+  "title": "Isaac Platform and Ecosystem",
+  "description": "Understanding NVIDIA Isaac platform for robotics AI",
+  "source": "@site/docs/module-3-ai-brain/chapter-1-isaac-platform.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/chapter-1-isaac-platform",
+  "permalink": "/textbook/docs/module-3-ai-brain/chapter-1-isaac-platform",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-3-ai-brain/chapter-1-isaac-platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Isaac Platform and Ecosystem",
+    "sidebar_position": 2,
+    "description": "Understanding NVIDIA Isaac platform for robotics AI",
+    "keywords": [
+      "nvidia isaac",
+      "robotics ai",
+      "perception pipelines",
+      "gpu acceleration"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to AI-Robot Brain",
+    "permalink": "/textbook/docs/module-3-ai-brain/intro"
+  },
+  "next": {
+    "title": "Synthetic Data Generation for AI Training",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-2-synthetic-data"
+  }
+}

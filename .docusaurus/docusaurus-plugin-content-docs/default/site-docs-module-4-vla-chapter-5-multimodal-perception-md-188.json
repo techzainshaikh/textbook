@@ -1,0 +1,37 @@
+{
+  "id": "module-4-vla/chapter-5-multimodal-perception",
+  "title": "Multimodal Perception for Vision-Language-Action Systems",
+  "description": "Implementing multimodal perception systems that integrate vision, language, and sensor data for humanoid robotics applications",
+  "source": "@site/docs/module-4-vla/chapter-5-multimodal-perception.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/chapter-5-multimodal-perception",
+  "permalink": "/textbook/docs/module-4-vla/chapter-5-multimodal-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-4-vla/chapter-5-multimodal-perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Multimodal Perception for Vision-Language-Action Systems",
+    "sidebar_position": 6,
+    "description": "Implementing multimodal perception systems that integrate vision, language, and sensor data for humanoid robotics applications",
+    "keywords": [
+      "multimodal perception",
+      "computer vision",
+      "sensor fusion",
+      "humanoid robotics",
+      "vision-language models",
+      "multimodal AI"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Actions for VLA Systems",
+    "permalink": "/textbook/docs/module-4-vla/chapter-4-ros2-actions"
+  },
+  "next": {
+    "title": "Module 4 Summary - Vision-Language-Action Systems",
+    "permalink": "/textbook/docs/module-4-vla/module-summary"
+  }
+}

@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2/module-summary.md",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/module-summary",
-  "permalink": "/docs/module-1-ros2/module-summary",
+  "permalink": "/textbook/docs/module-1-ros2/module-summary",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/module-summary.md",
@@ -29,6 +29,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module Implementation Plan",
-    "permalink": "/docs/module-1-ros2/implementation-plan"
+    "permalink": "/textbook/docs/module-1-ros2/implementation-plan"
+  },
+  "next": {
+    "title": "Introduction to Digital Twin",
+    "permalink": "/textbook/docs/module-2-digital-twin/intro"
   }
 }

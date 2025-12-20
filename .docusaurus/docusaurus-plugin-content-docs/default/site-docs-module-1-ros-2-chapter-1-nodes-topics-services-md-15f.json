@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2/chapter-1-nodes-topics-services.md",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/chapter-1-nodes-topics-services",
-  "permalink": "/docs/module-1-ros2/chapter-1-nodes-topics-services",
+  "permalink": "/textbook/docs/module-1-ros2/chapter-1-nodes-topics-services",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-1-ros2/chapter-1-nodes-topics-services.md",
@@ -28,10 +28,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 1 - The Robotic Nervous System (ROS 2)",
-    "permalink": "/docs/module-1-ros2/intro"
+    "permalink": "/textbook/docs/module-1-ros2/intro"
   },
   "next": {
     "title": "Chapter 1 - Exercises",
-    "permalink": "/docs/module-1-ros2/chapter-1-exercises"
+    "permalink": "/textbook/docs/module-1-ros2/chapter-1-exercises"
   }
 }

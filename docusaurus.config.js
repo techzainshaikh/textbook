@@ -9,14 +9,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://physical-ai-book-humanoid.pages.dev',
+  url: 'https://techzainshaikh.github.io',
   // Set the /<base>/ pathname under which your site is served
   // For GitHub Pages: /<username>/<repository>/
-  baseUrl: '/',
+  baseUrl: '/textbook/',
 
   // GitHub pages deployment config.
-  organizationName: 'Panaversity',
-  projectName: 'physical_ai_book_humanoid',
+  organizationName: 'techzainshaikh',
+  projectName: 'textbook',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
@@ -75,7 +75,7 @@ const config = {
       navbar: {
         title: 'Physical AI & Humanoid Robotics',
         logo: {
-          alt: 'Physical AI Logo',
+          alt: 'Physical AI & Humanoid Robotics Logo',
           src: 'img/logo.svg',
         },
         items: [

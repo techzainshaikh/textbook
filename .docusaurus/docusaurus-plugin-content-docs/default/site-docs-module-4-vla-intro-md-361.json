@@ -1,0 +1,36 @@
+{
+  "id": "module-4-vla/intro",
+  "title": "Introduction to Vision-Language-Action Systems",
+  "description": "Overview of integrated vision, language, and action systems for humanoid robotics applications",
+  "source": "@site/docs/module-4-vla/intro.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/intro",
+  "permalink": "/textbook/docs/module-4-vla/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-4-vla/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Vision-Language-Action Systems",
+    "sidebar_position": 1,
+    "description": "Overview of integrated vision, language, and action systems for humanoid robotics applications",
+    "keywords": [
+      "vision-language-action",
+      "VLA",
+      "multimodal AI",
+      "humanoid robotics",
+      "embodied AI"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sim-to-Real Transfer for Humanoid Robots",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-6-sim-to-real"
+  },
+  "next": {
+    "title": "Vision-Language-Action Systems Overview",
+    "permalink": "/textbook/docs/module-4-vla/chapter-1-vla-overview"
+  }
+}

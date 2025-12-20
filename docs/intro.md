@@ -43,3 +43,10 @@ All mathematical equations include formal derivations or proper citations in APA
 ## Getting Started
 
 Begin with Module 1: The Robotic Nervous System (ROS 2) to establish the foundational concepts necessary for understanding the more advanced topics covered in subsequent modules.
+
+## Navigate the Textbook
+
+- [Module 1: The Robotic Nervous System (ROS 2)](./module-1-ros2/intro) - Foundation concepts, nodes, topics, services, and agents
+- [Module 2: The Digital Twin (Gazebo & Unity)](./module-2-digital-twin/intro) - Physics simulation, sensor simulation, environment modeling, and Unity-based human-robot interaction visualization
+- [Module 3: The AI-Robot Brain (NVIDIA Isaac™)](./module-3-ai-brain/intro) - Isaac Sim, synthetic data, perception pipelines, Nav2 navigation, reinforcement learning, and sim-to-real transfer
+- [Module 4: Vision-Language-Action (VLA)](./module-4-vla/intro) - Speech recognition, LLM-based planning, ROS 2 actions, multimodal perception, and end-to-end VLA systems

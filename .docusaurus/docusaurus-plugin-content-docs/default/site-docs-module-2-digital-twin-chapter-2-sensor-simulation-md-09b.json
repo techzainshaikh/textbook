@@ -1,0 +1,37 @@
+{
+  "id": "module-2-digital-twin/chapter-2-sensor-simulation",
+  "title": "Sensor Simulation in Gazebo",
+  "description": "Understanding sensor simulation for digital twins using Gazebo",
+  "source": "@site/docs/module-2-digital-twin/chapter-2-sensor-simulation.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/chapter-2-sensor-simulation",
+  "permalink": "/textbook/docs/module-2-digital-twin/chapter-2-sensor-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-2-digital-twin/chapter-2-sensor-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Sensor Simulation in Gazebo",
+    "sidebar_position": 3,
+    "description": "Understanding sensor simulation for digital twins using Gazebo",
+    "keywords": [
+      "sensor simulation",
+      "gazebo",
+      "lidar",
+      "camera",
+      "imu",
+      "robotics simulation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics Simulation in Gazebo",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-1-physics-simulation"
+  },
+  "next": {
+    "title": "Environment Modeling for Digital Twins",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-3-environment-modeling"
+  }
+}
