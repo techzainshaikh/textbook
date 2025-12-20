@@ -9,10 +9,11 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://techzainshaikh.github.io',
+  url: 'https://your-vercel-project-name.vercel.app',
   // Set the /<base>/ pathname under which your site is served
-  // For GitHub Pages: /<username>/<repository>/
-  baseUrl: '/textbook/',
+  // For Vercel/Netlify deployment: use /
+  // For GitHub Pages: use '/<organization>/<repository>/'
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'techzainshaikh',
