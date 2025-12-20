@@ -1,0 +1,36 @@
+{
+  "id": "module-4-vla/module-summary",
+  "title": "Module 4 Summary - Vision-Language-Action Systems",
+  "description": "Summary and integration of Vision-Language-Action systems for humanoid robotics",
+  "source": "@site/docs/module-4-vla/module-summary.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/module-summary",
+  "permalink": "/textbook/docs/module-4-vla/module-summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-4-vla/module-summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Module 4 Summary - Vision-Language-Action Systems",
+    "sidebar_position": 7,
+    "description": "Summary and integration of Vision-Language-Action systems for humanoid robotics",
+    "keywords": [
+      "VLA",
+      "vision-language-action",
+      "multimodal AI",
+      "humanoid robotics",
+      "integration"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multimodal Perception for Vision-Language-Action Systems",
+    "permalink": "/textbook/docs/module-4-vla/chapter-5-multimodal-perception"
+  },
+  "next": {
+    "title": "Capstone Project",
+    "permalink": "/textbook/docs/capstone-project"
+  }
+}

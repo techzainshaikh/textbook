@@ -5,7 +5,7 @@
   "source": "@site/docs/examples/ros2-service.md",
   "sourceDirName": "examples",
   "slug": "/examples/ros2-service",
-  "permalink": "/docs/examples/ros2-service",
+  "permalink": "/textbook/docs/examples/ros2-service",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/examples/ros2-service.md",

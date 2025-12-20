@@ -1,0 +1,36 @@
+{
+  "id": "module-2-digital-twin/chapter-4-unity-visualization",
+  "title": "Unity Visualization for Human-Robot Interaction",
+  "description": "Creating immersive visualization environments for robotics using Unity",
+  "source": "@site/docs/module-2-digital-twin/chapter-4-unity-visualization.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/chapter-4-unity-visualization",
+  "permalink": "/textbook/docs/module-2-digital-twin/chapter-4-unity-visualization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-2-digital-twin/chapter-4-unity-visualization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Unity Visualization for Human-Robot Interaction",
+    "sidebar_position": 5,
+    "description": "Creating immersive visualization environments for robotics using Unity",
+    "keywords": [
+      "unity",
+      "visualization",
+      "human-robot interaction",
+      "3d graphics",
+      "robotics simulation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Environment Modeling for Digital Twins",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-3-environment-modeling"
+  },
+  "next": {
+    "title": "Capstone Project - Complete Physical AI System Integration",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-4-capstone-integration"
+  }
+}

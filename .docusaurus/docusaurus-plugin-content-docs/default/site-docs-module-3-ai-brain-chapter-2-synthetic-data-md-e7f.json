@@ -1,0 +1,36 @@
+{
+  "id": "module-3-ai-brain/chapter-2-synthetic-data",
+  "title": "Synthetic Data Generation for AI Training",
+  "description": "Creating synthetic datasets using Isaac Sim for AI model training",
+  "source": "@site/docs/module-3-ai-brain/chapter-2-synthetic-data.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/chapter-2-synthetic-data",
+  "permalink": "/textbook/docs/module-3-ai-brain/chapter-2-synthetic-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-3-ai-brain/chapter-2-synthetic-data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Synthetic Data Generation for AI Training",
+    "sidebar_position": 3,
+    "description": "Creating synthetic datasets using Isaac Sim for AI model training",
+    "keywords": [
+      "synthetic data",
+      "isaac sim",
+      "data generation",
+      "ai training",
+      "computer vision"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Platform and Ecosystem",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-1-isaac-platform"
+  },
+  "next": {
+    "title": "Perception Pipelines for Robotics AI",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-3-perception-pipelines"
+  }
+}

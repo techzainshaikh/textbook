@@ -5,7 +5,7 @@
   "source": "@site/docs/glossary.md",
   "sourceDirName": ".",
   "slug": "/glossary",
-  "permalink": "/docs/glossary",
+  "permalink": "/textbook/docs/glossary",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/glossary.md",
@@ -27,10 +27,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/docs/intro"
+    "permalink": "/textbook/docs/intro"
   },
   "next": {
     "title": "Notation",
-    "permalink": "/docs/notation"
+    "permalink": "/textbook/docs/notation"
   }
 }

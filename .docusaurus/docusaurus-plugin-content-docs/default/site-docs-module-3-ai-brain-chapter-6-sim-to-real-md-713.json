@@ -1,0 +1,37 @@
+{
+  "id": "module-3-ai-brain/chapter-6-sim-to-real",
+  "title": "Sim-to-Real Transfer for Humanoid Robots",
+  "description": "Bridging the reality gap between simulation and real-world humanoid robot deployment using domain randomization and system identification",
+  "source": "@site/docs/module-3-ai-brain/chapter-6-sim-to-real.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/chapter-6-sim-to-real",
+  "permalink": "/textbook/docs/module-3-ai-brain/chapter-6-sim-to-real",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-3-ai-brain/chapter-6-sim-to-real.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Sim-to-Real Transfer for Humanoid Robots",
+    "sidebar_position": 7,
+    "description": "Bridging the reality gap between simulation and real-world humanoid robot deployment using domain randomization and system identification",
+    "keywords": [
+      "sim-to-real",
+      "domain randomization",
+      "system identification",
+      "reality gap",
+      "humanoid robotics",
+      "transfer learning"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reinforcement Learning for Robotics with Isaac Sim",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-5-reinforcement-learning"
+  },
+  "next": {
+    "title": "Introduction to Vision-Language-Action Systems",
+    "permalink": "/textbook/docs/module-4-vla/intro"
+  }
+}

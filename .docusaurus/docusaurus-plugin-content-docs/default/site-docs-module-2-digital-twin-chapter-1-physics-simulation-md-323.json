@@ -1,0 +1,35 @@
+{
+  "id": "module-2-digital-twin/chapter-1-physics-simulation",
+  "title": "Physics Simulation in Gazebo",
+  "description": "Understanding physics simulation for digital twins using Gazebo",
+  "source": "@site/docs/module-2-digital-twin/chapter-1-physics-simulation.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/chapter-1-physics-simulation",
+  "permalink": "/textbook/docs/module-2-digital-twin/chapter-1-physics-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-2-digital-twin/chapter-1-physics-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Physics Simulation in Gazebo",
+    "sidebar_position": 2,
+    "description": "Understanding physics simulation for digital twins using Gazebo",
+    "keywords": [
+      "physics simulation",
+      "gazebo",
+      "robotics simulation",
+      "collision detection"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Digital Twin",
+    "permalink": "/textbook/docs/module-2-digital-twin/intro"
+  },
+  "next": {
+    "title": "Sensor Simulation in Gazebo",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-2-sensor-simulation"
+  }
+}

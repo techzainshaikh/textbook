@@ -1,0 +1,35 @@
+{
+  "id": "module-2-digital-twin/chapter-3-environment-modeling",
+  "title": "Environment Modeling for Digital Twins",
+  "description": "Creating realistic environments for simulation and testing in digital twins",
+  "source": "@site/docs/module-2-digital-twin/chapter-3-environment-modeling.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/chapter-3-environment-modeling",
+  "permalink": "/textbook/docs/module-2-digital-twin/chapter-3-environment-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-2-digital-twin/chapter-3-environment-modeling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Environment Modeling for Digital Twins",
+    "sidebar_position": 4,
+    "description": "Creating realistic environments for simulation and testing in digital twins",
+    "keywords": [
+      "environment modeling",
+      "gazebo worlds",
+      "unity environments",
+      "robotics simulation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensor Simulation in Gazebo",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-2-sensor-simulation"
+  },
+  "next": {
+    "title": "Unity Visualization for Human-Robot Interaction",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-4-unity-visualization"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "module-4-vla/chapter-1-vla-overview",
+  "title": "Vision-Language-Action Systems Overview",
+  "description": "Comprehensive overview of multimodal AI systems that integrate vision, language, and action for humanoid robotics",
+  "source": "@site/docs/module-4-vla/chapter-1-vla-overview.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/chapter-1-vla-overview",
+  "permalink": "/textbook/docs/module-4-vla/chapter-1-vla-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-4-vla/chapter-1-vla-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Vision-Language-Action Systems Overview",
+    "sidebar_position": 2,
+    "description": "Comprehensive overview of multimodal AI systems that integrate vision, language, and action for humanoid robotics",
+    "keywords": [
+      "vision-language-action",
+      "VLA",
+      "multimodal AI",
+      "embodied intelligence",
+      "humanoid robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Vision-Language-Action Systems",
+    "permalink": "/textbook/docs/module-4-vla/intro"
+  },
+  "next": {
+    "title": "Speech Recognition for Robotics with OpenAI Whisper",
+    "permalink": "/textbook/docs/module-4-vla/chapter-2-speech-recognition"
+  }
+}

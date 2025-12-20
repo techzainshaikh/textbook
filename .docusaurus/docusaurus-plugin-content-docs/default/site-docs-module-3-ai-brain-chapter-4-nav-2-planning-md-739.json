@@ -1,0 +1,38 @@
+{
+  "id": "module-3-ai-brain/chapter-4-nav2-planning",
+  "title": "Navigation and Path Planning with Isaac ROS",
+  "description": "Implementing navigation and path planning systems using Isaac ROS and Nav2",
+  "source": "@site/docs/module-3-ai-brain/chapter-4-nav2-planning.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/chapter-4-nav2-planning",
+  "permalink": "/textbook/docs/module-3-ai-brain/chapter-4-nav2-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-3-ai-brain/chapter-4-nav2-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Navigation and Path Planning with Isaac ROS",
+    "sidebar_position": 5,
+    "description": "Implementing navigation and path planning systems using Isaac ROS and Nav2",
+    "keywords": [
+      "navigation",
+      "path planning",
+      "nav2",
+      "robotics",
+      "Isaac ROS",
+      "localization",
+      "mapping"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Perception Pipelines for Robotics AI",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-3-perception-pipelines"
+  },
+  "next": {
+    "title": "Reinforcement Learning for Robotics with Isaac Sim",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-5-reinforcement-learning"
+  }
+}

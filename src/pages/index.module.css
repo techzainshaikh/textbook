@@ -1,0 +1,459 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * locally scoped CSS styles.
+ */
+
+.heroBanner {
+  padding: 6rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #1a365d 0%, #2d5a87 100%);
+  color: white;
+  background-size: 400% 400%;
+  animation: gradientShift 8s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.heroBanner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at top right, rgba(255,255,255,0.1) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.heroBanner::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, transparent, #60a5fa, #8b5cf6, #ec4899, transparent);
+  animation: shimmer 3s linear infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.heroContent {
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+.hero__title {
+  font-size: 3.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #ffffff, #e2e8f0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: titleGlow 3s ease-in-out infinite alternate;
+}
+
+@keyframes titleGlow {
+  0% {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  }
+  100% {
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(96, 165, 250, 0.4);
+  }
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  margin-bottom: 2.5rem;
+  opacity: 0.9;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.buttons a {
+  position: relative;
+  overflow: hidden;
+  transform: translateY(0);
+  transition: all 0.3s ease;
+}
+
+.buttons a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  transition: left 0.5s;
+}
+
+.buttons a:hover::before {
+  left: 100%;
+}
+
+.buttons a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.features {
+  padding: 4rem 0;
+  background-color: #f8fafc;
+}
+
+.sectionTitle {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #1a365d;
+}
+
+.sectionDescription {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #4a5568;
+  line-height: 1.8;
+}
+
+.featureCard {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+  margin-bottom: 1rem;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.featureCard h3 {
+  color: #2d5a87;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.featureCard p {
+  color: #4a5568;
+  line-height: 1.6;
+}
+
+.curriculumOverview {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.curriculumOverview h3 {
+  text-align: center;
+  color: #1a365d;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.currentModule {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.currentModule h4 {
+  color: #2d5a87;
+  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+}
+
+.plannedModules h4 {
+  color: #4a5568;
+  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+}
+
+.capstoneProject h4 {
+  color: #4a5568;
+  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+}
+
+.curriculumList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.curriculumList li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #edf2f7;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.curriculumList li:last-child {
+  border-bottom: none;
+}
+
+/* Module Cards Styling */
+.moduleCard {
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  border: 2px solid transparent;
+}
+
+.moduleCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #4f46e5, #7c3aed, #ec4899);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moduleCard:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+  border-color: rgba(79, 70, 229, 0.2);
+}
+
+.moduleCard:hover::before {
+  opacity: 1;
+}
+
+.moduleIcon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  line-height: 1;
+}
+
+.moduleTitle {
+  color: #1a365d;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.moduleSubtitle {
+  color: #2d5a87;
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.moduleDescription {
+  color: #4a5568;
+  line-height: 1.6;
+  margin: 0 0 1.5rem 0;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.moduleStatus {
+  margin-bottom: 1.5rem;
+  width: 100%;
+}
+
+.statusBadge {
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.statusCompleted {
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: white;
+}
+
+.moduleButton {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  background: linear-gradient(135deg, #4f46e5, #7c3aed);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+}
+
+.moduleButton:hover {
+  background: linear-gradient(135deg, #4338ca, #6d28d9);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 15px rgba(79, 70, 229, 0.3);
+  color: white;
+}
+
+/* Capstone Card Styling */
+.capstoneCard {
+  background: linear-gradient(135deg, #1e293b, #334155);
+  border-radius: 16px;
+  padding: 2.5rem;
+  text-align: center;
+  color: white;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.capstoneCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, #ec4899, #f43f5e, #f97316);
+}
+
+.capstoneCard:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.capstoneIcon {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+  line-height: 1;
+}
+
+.capstoneTitle {
+  color: white;
+  margin: 0 0 1rem 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.capstoneDescription {
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin: 0 0 2rem 0;
+  font-size: 1.1rem;
+}
+
+.capstoneButton {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background: linear-gradient(135deg, #ec4899, #f43f5e);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  width: auto;
+  text-align: center;
+}
+
+.capstoneButton:hover {
+  background: linear-gradient(135deg, #db2777, #e11d48);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(236, 72, 153, 0.4);
+  color: white;
+}
+
+/* Additional styling for better visual appeal */
+@media screen and (max-width: 996px) {
+  .buttons {
+    flex-direction: column;
+  }
+
+  .sectionTitle {
+    font-size: 1.5rem;
+  }
+
+  .featureCard {
+    margin-bottom: 1.5rem;
+  }
+
+  .moduleCard {
+    margin-bottom: 2rem;
+  }
+
+  .moduleTitle {
+    font-size: 1.3rem;
+  }
+
+  .moduleSubtitle {
+    font-size: 0.9rem;
+  }
+
+  .moduleDescription {
+    font-size: 0.9rem;
+  }
+
+  .capstoneCard {
+    padding: 1.5rem;
+  }
+
+  .capstoneTitle {
+    font-size: 1.5rem;
+  }
+
+  .capstoneDescription {
+    font-size: 1rem;
+  }
+}

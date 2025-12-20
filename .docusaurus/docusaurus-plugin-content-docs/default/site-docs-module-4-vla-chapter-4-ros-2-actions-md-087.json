@@ -1,0 +1,38 @@
+{
+  "id": "module-4-vla/chapter-4-ros2-actions",
+  "title": "ROS 2 Actions for VLA Systems",
+  "description": "Implementing ROS 2 action servers and clients for complex task execution in Vision-Language-Action systems",
+  "source": "@site/docs/module-4-vla/chapter-4-ros2-actions.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/chapter-4-ros2-actions",
+  "permalink": "/textbook/docs/module-4-vla/chapter-4-ros2-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-4-vla/chapter-4-ros2-actions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "ROS 2 Actions for VLA Systems",
+    "sidebar_position": 5,
+    "description": "Implementing ROS 2 action servers and clients for complex task execution in Vision-Language-Action systems",
+    "keywords": [
+      "ROS 2",
+      "actions",
+      "task execution",
+      "VLA",
+      "humanoid robotics",
+      "action servers",
+      "action clients"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LLM-Based Task Planning for Robotics",
+    "permalink": "/textbook/docs/module-4-vla/chapter-3-llm-planning"
+  },
+  "next": {
+    "title": "Multimodal Perception for Vision-Language-Action Systems",
+    "permalink": "/textbook/docs/module-4-vla/chapter-5-multimodal-perception"
+  }
+}

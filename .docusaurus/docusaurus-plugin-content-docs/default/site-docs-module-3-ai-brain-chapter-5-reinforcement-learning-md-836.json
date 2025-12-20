@@ -1,0 +1,37 @@
+{
+  "id": "module-3-ai-brain/chapter-5-reinforcement-learning",
+  "title": "Reinforcement Learning for Robotics with Isaac Sim",
+  "description": "Implementing reinforcement learning algorithms for humanoid robot control using Isaac Sim and NVIDIA Omniverse",
+  "source": "@site/docs/module-3-ai-brain/chapter-5-reinforcement-learning.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/chapter-5-reinforcement-learning",
+  "permalink": "/textbook/docs/module-3-ai-brain/chapter-5-reinforcement-learning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-3-ai-brain/chapter-5-reinforcement-learning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Reinforcement Learning for Robotics with Isaac Sim",
+    "sidebar_position": 6,
+    "description": "Implementing reinforcement learning algorithms for humanoid robot control using Isaac Sim and NVIDIA Omniverse",
+    "keywords": [
+      "reinforcement learning",
+      "robotics",
+      "Isaac Sim",
+      "NVIDIA Omniverse",
+      "humanoid control",
+      "AI training"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigation and Path Planning with Isaac ROS",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-4-nav2-planning"
+  },
+  "next": {
+    "title": "Sim-to-Real Transfer for Humanoid Robots",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-6-sim-to-real"
+  }
+}

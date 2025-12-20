@@ -1,0 +1,36 @@
+{
+  "id": "module-3-ai-brain/intro",
+  "title": "Introduction to AI-Robot Brain",
+  "description": "Introduction to AI-Robot Brain concepts with NVIDIA Isaac",
+  "source": "@site/docs/module-3-ai-brain/intro.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/intro",
+  "permalink": "/textbook/docs/module-3-ai-brain/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-3-ai-brain/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to AI-Robot Brain",
+    "sidebar_position": 1,
+    "description": "Introduction to AI-Robot Brain concepts with NVIDIA Isaac",
+    "keywords": [
+      "ai brain",
+      "nvidia isaac",
+      "robotics ai",
+      "machine learning",
+      "perception"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2 Summary - The Digital Twin",
+    "permalink": "/textbook/docs/module-2-digital-twin/module-summary"
+  },
+  "next": {
+    "title": "Isaac Platform and Ecosystem",
+    "permalink": "/textbook/docs/module-3-ai-brain/chapter-1-isaac-platform"
+  }
+}

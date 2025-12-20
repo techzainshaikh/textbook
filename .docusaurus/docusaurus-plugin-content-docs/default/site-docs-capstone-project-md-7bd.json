@@ -1,0 +1,35 @@
+{
+  "id": "capstone-project",
+  "title": "Capstone Project - Humanoid Robotics Integration",
+  "description": "Comprehensive capstone project integrating all modules of the Physical AI textbook",
+  "source": "@site/docs/capstone-project.md",
+  "sourceDirName": ".",
+  "slug": "/capstone-project",
+  "permalink": "/textbook/docs/capstone-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/capstone-project.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Capstone Project - Humanoid Robotics Integration",
+    "sidebar_position": 8,
+    "description": "Comprehensive capstone project integrating all modules of the Physical AI textbook",
+    "keywords": [
+      "capstone",
+      "humanoid robotics",
+      "integration",
+      "physical AI",
+      "ROS 2",
+      "digital twin",
+      "AI brain",
+      "VLA"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4 Summary - Vision-Language-Action Systems",
+    "permalink": "/textbook/docs/module-4-vla/module-summary"
+  }
+}

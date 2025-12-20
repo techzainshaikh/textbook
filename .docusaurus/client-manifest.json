@@ -3,387 +3,653 @@
     "main"
   ],
   "origins": {
-    "237": [
-      237
+    "2237": [
+      2237
     ],
     "17896441": [
-      869,
-      401
+      1869,
+      8401
+    ],
+    "32356006": [
+      2144
     ],
     "main": [
-      354,
-      869,
-      792
+      1869,
+      5354,
+      8792
     ],
     "runtime~main": [
-      792,
-      869,
-      354
+      1869,
+      8792,
+      5354
     ],
     "00331d58": [
-      281
+      5281
     ],
-    "0058b4c6": [
-      849
+    "03e23960": [
+      3631
+    ],
+    "0873ceb0": [
+      9051
+    ],
+    "09bc6df3": [
+      9204
     ],
     "0c8f655e": [
-      859
+      1859
+    ],
+    "0de35cb3": [
+      6362
     ],
     "0e384e19": [
-      976
+      3976
     ],
     "15518fe9": [
-      103
+      6103
     ],
     "15fcbb01": [
-      249
+      3249
     ],
     "1766c913": [
-      191
+      9191
+    ],
+    "1880acaa": [
+      5566
     ],
     "20ab22a4": [
-      139
+      3139
     ],
     "242b638a": [
-      13
+      2013
+    ],
+    "2c1abae2": [
+      4378
+    ],
+    "3613bb70": [
+      2101
     ],
     "3709f09d": [
-      909
+      7909
+    ],
+    "3928c94f": [
+      1651
     ],
     "4d971954": [
-      902
+      2902
+    ],
+    "50387d27": [
+      7761
+    ],
+    "57dadb1c": [
+      20
     ],
     "5c3c75e1": [
-      695
+      2695
     ],
     "5e95c892": [
-      647
+      9647
+    ],
+    "60e4c4be": [
+      952
+    ],
+    "6bb7a718": [
+      1193
+    ],
+    "7130626d": [
+      1300
+    ],
+    "739033f5": [
+      91
+    ],
+    "78d65146": [
+      5968
+    ],
+    "7bd3979a": [
+      1093
+    ],
+    "7f8c421a": [
+      4459
+    ],
+    "83648cb5": [
+      8502
     ],
     "87c47bb3": [
-      863
+      7863
     ],
     "8f136eb8": [
-      968
+      9968
     ],
     "9d271101": [
-      774
+      5774
+    ],
+    "a0b453c1": [
+      1538
     ],
     "a7456010": [
-      235
+      1235
     ],
     "a7bd4aaa": [
-      98
+      7098
     ],
     "a94703ab": [
-      869,
-      48
+      1869,
+      9048
     ],
     "aba21aa0": [
-      742
+      5742
     ],
     "b434db5b": [
-      3
+      5003
+    ],
+    "c1ea27b3": [
+      7597
     ],
     "c4f5d8e4": [
-      634
+      1869,
+      2634
     ],
     "cfb642fa": [
-      233
+      2233
     ],
     "d3e85839": [
       888
     ],
     "e747ec83": [
-      51
+      7051
+    ],
+    "e7f796c2": [
+      6200
     ],
     "f03af044": [
       15
     ],
+    "fa698c00": [
+      4000
+    ],
     "styles": [
-      48,
-      354,
-      401,
-      792,
-      869
+      2634,
+      5354,
+      8401,
+      8792,
+      9048,
+      1869
     ]
   },
   "assets": {
-    "3": {
-      "js": [
-        {
-          "file": "assets/js/b434db5b.8fdb69b0.js",
-          "hash": "7c863167309a9f4d",
-          "publicPath": "/assets/js/b434db5b.8fdb69b0.js"
-        }
-      ]
-    },
-    "13": {
-      "js": [
-        {
-          "file": "assets/js/242b638a.7bfb65c0.js",
-          "hash": "0d94748d96993f90",
-          "publicPath": "/assets/js/242b638a.7bfb65c0.js"
-        }
-      ]
-    },
     "15": {
       "js": [
         {
-          "file": "assets/js/f03af044.2e53f737.js",
-          "hash": "e5c2dca5fd9d2b72",
-          "publicPath": "/assets/js/f03af044.2e53f737.js"
+          "file": "assets/js/f03af044.6d0dcc22.js",
+          "hash": "8f255fba1e32db53",
+          "publicPath": "/textbook/assets/js/f03af044.6d0dcc22.js"
         }
       ]
     },
-    "48": {
+    "20": {
       "js": [
         {
-          "file": "assets/js/a94703ab.ae8f83f2.js",
-          "hash": "95793eab778d4de2",
-          "publicPath": "/assets/js/a94703ab.ae8f83f2.js"
+          "file": "assets/js/57dadb1c.c1c77e2c.js",
+          "hash": "4dfc7ddb0cecaf69",
+          "publicPath": "/textbook/assets/js/57dadb1c.c1c77e2c.js"
         }
       ]
     },
-    "51": {
+    "91": {
       "js": [
         {
-          "file": "assets/js/e747ec83.8f3b4b40.js",
-          "hash": "d083bb6b7b28f5e9",
-          "publicPath": "/assets/js/e747ec83.8f3b4b40.js"
-        }
-      ]
-    },
-    "98": {
-      "js": [
-        {
-          "file": "assets/js/a7bd4aaa.016b09f6.js",
-          "hash": "c8cd10c33ad6e7ba",
-          "publicPath": "/assets/js/a7bd4aaa.016b09f6.js"
-        }
-      ]
-    },
-    "103": {
-      "js": [
-        {
-          "file": "assets/js/15518fe9.60b2d441.js",
-          "hash": "04b5d371de90be2f",
-          "publicPath": "/assets/js/15518fe9.60b2d441.js"
-        }
-      ]
-    },
-    "139": {
-      "js": [
-        {
-          "file": "assets/js/20ab22a4.cb0711f4.js",
-          "hash": "48a73e23c84a62b5",
-          "publicPath": "/assets/js/20ab22a4.cb0711f4.js"
-        }
-      ]
-    },
-    "191": {
-      "js": [
-        {
-          "file": "assets/js/1766c913.4eeb8f6c.js",
-          "hash": "2ab293d6e555530d",
-          "publicPath": "/assets/js/1766c913.4eeb8f6c.js"
-        }
-      ]
-    },
-    "233": {
-      "js": [
-        {
-          "file": "assets/js/cfb642fa.95051884.js",
-          "hash": "b169c76c53e95659",
-          "publicPath": "/assets/js/cfb642fa.95051884.js"
-        }
-      ]
-    },
-    "235": {
-      "js": [
-        {
-          "file": "assets/js/a7456010.7b0a5140.js",
-          "hash": "af30018bb1176fe6",
-          "publicPath": "/assets/js/a7456010.7b0a5140.js"
-        }
-      ]
-    },
-    "237": {
-      "js": [
-        {
-          "file": "assets/js/237.66412c4c.js",
-          "hash": "5fded8138f4f7f75",
-          "publicPath": "/assets/js/237.66412c4c.js"
-        }
-      ]
-    },
-    "249": {
-      "js": [
-        {
-          "file": "assets/js/15fcbb01.89b00b1e.js",
-          "hash": "e9e677ce265a0d7d",
-          "publicPath": "/assets/js/15fcbb01.89b00b1e.js"
-        }
-      ]
-    },
-    "281": {
-      "js": [
-        {
-          "file": "assets/js/00331d58.117dcdc0.js",
-          "hash": "0476107450ba95d5",
-          "publicPath": "/assets/js/00331d58.117dcdc0.js"
-        }
-      ]
-    },
-    "354": {
-      "js": [
-        {
-          "file": "assets/js/runtime~main.ff820e9e.js",
-          "hash": "febc8c6cdb1860f7",
-          "publicPath": "/assets/js/runtime~main.ff820e9e.js"
-        }
-      ]
-    },
-    "401": {
-      "js": [
-        {
-          "file": "assets/js/17896441.e2c42eac.js",
-          "hash": "c525c3fa1ad36865",
-          "publicPath": "/assets/js/17896441.e2c42eac.js"
-        }
-      ]
-    },
-    "634": {
-      "js": [
-        {
-          "file": "assets/js/c4f5d8e4.ea2a58ee.js",
-          "hash": "cd68fa6cb7cf7df0",
-          "publicPath": "/assets/js/c4f5d8e4.ea2a58ee.js"
-        }
-      ]
-    },
-    "647": {
-      "js": [
-        {
-          "file": "assets/js/5e95c892.cf87d366.js",
-          "hash": "7365eb75b5f0b208",
-          "publicPath": "/assets/js/5e95c892.cf87d366.js"
-        }
-      ]
-    },
-    "695": {
-      "js": [
-        {
-          "file": "assets/js/5c3c75e1.b6f151d7.js",
-          "hash": "40d97bdd00ebddf2",
-          "publicPath": "/assets/js/5c3c75e1.b6f151d7.js"
-        }
-      ]
-    },
-    "742": {
-      "js": [
-        {
-          "file": "assets/js/aba21aa0.32e276e1.js",
-          "hash": "9cdb3aba0e8d83c3",
-          "publicPath": "/assets/js/aba21aa0.32e276e1.js"
-        }
-      ]
-    },
-    "774": {
-      "js": [
-        {
-          "file": "assets/js/9d271101.083b8c12.js",
-          "hash": "a216abe87f1ec925",
-          "publicPath": "/assets/js/9d271101.083b8c12.js"
-        }
-      ]
-    },
-    "792": {
-      "js": [
-        {
-          "file": "assets/js/main.8d48611f.js",
-          "hash": "99946dcf678f7c19",
-          "publicPath": "/assets/js/main.8d48611f.js"
-        }
-      ]
-    },
-    "849": {
-      "js": [
-        {
-          "file": "assets/js/0058b4c6.5ae92598.js",
-          "hash": "9d9b9d2c57af87d6",
-          "publicPath": "/assets/js/0058b4c6.5ae92598.js"
-        }
-      ]
-    },
-    "859": {
-      "js": [
-        {
-          "file": "assets/js/0c8f655e.0b9bd21e.js",
-          "hash": "36c7c9aaa48315c1",
-          "publicPath": "/assets/js/0c8f655e.0b9bd21e.js"
-        }
-      ]
-    },
-    "863": {
-      "js": [
-        {
-          "file": "assets/js/87c47bb3.f5f9dfae.js",
-          "hash": "58680614df7729c3",
-          "publicPath": "/assets/js/87c47bb3.f5f9dfae.js"
-        }
-      ]
-    },
-    "869": {
-      "css": [
-        {
-          "file": "assets/css/styles.ede76f13.css",
-          "hash": "2eb7cde288abd8f7",
-          "publicPath": "/assets/css/styles.ede76f13.css"
+          "file": "assets/js/739033f5.24bccee2.js",
+          "hash": "f838bbc49f3017da",
+          "publicPath": "/textbook/assets/js/739033f5.24bccee2.js"
         }
       ]
     },
     "888": {
       "js": [
         {
-          "file": "assets/js/d3e85839.69b6a3ef.js",
-          "hash": "5da38058d0de79f6",
-          "publicPath": "/assets/js/d3e85839.69b6a3ef.js"
+          "file": "assets/js/d3e85839.9f899740.js",
+          "hash": "e89e88985c9875b2",
+          "publicPath": "/textbook/assets/js/d3e85839.9f899740.js"
         }
       ]
     },
-    "902": {
+    "952": {
       "js": [
         {
-          "file": "assets/js/4d971954.507b180c.js",
-          "hash": "139607f9f35de4a6",
-          "publicPath": "/assets/js/4d971954.507b180c.js"
+          "file": "assets/js/60e4c4be.7d06a11b.js",
+          "hash": "00a39039ebe23afb",
+          "publicPath": "/textbook/assets/js/60e4c4be.7d06a11b.js"
         }
       ]
     },
-    "909": {
+    "1093": {
       "js": [
         {
-          "file": "assets/js/3709f09d.ed9c825d.js",
-          "hash": "a3a0e419800a95bb",
-          "publicPath": "/assets/js/3709f09d.ed9c825d.js"
+          "file": "assets/js/7bd3979a.230b95f7.js",
+          "hash": "6efb6d485ddf37c4",
+          "publicPath": "/textbook/assets/js/7bd3979a.230b95f7.js"
         }
       ]
     },
-    "968": {
+    "1193": {
       "js": [
         {
-          "file": "assets/js/8f136eb8.e523505a.js",
-          "hash": "780a5947e7c3547b",
-          "publicPath": "/assets/js/8f136eb8.e523505a.js"
+          "file": "assets/js/6bb7a718.24039594.js",
+          "hash": "35248cac04dcc373",
+          "publicPath": "/textbook/assets/js/6bb7a718.24039594.js"
         }
       ]
     },
-    "976": {
+    "1235": {
       "js": [
         {
-          "file": "assets/js/0e384e19.81f36dd1.js",
-          "hash": "44a04a236c519613",
-          "publicPath": "/assets/js/0e384e19.81f36dd1.js"
+          "file": "assets/js/a7456010.2147e779.js",
+          "hash": "b8fbf48db40db4da",
+          "publicPath": "/textbook/assets/js/a7456010.2147e779.js"
+        }
+      ]
+    },
+    "1300": {
+      "js": [
+        {
+          "file": "assets/js/7130626d.bb6b31f1.js",
+          "hash": "b56371561b8eafde",
+          "publicPath": "/textbook/assets/js/7130626d.bb6b31f1.js"
+        }
+      ]
+    },
+    "1538": {
+      "js": [
+        {
+          "file": "assets/js/a0b453c1.4f6bb2a9.js",
+          "hash": "c5a0e108008dcb66",
+          "publicPath": "/textbook/assets/js/a0b453c1.4f6bb2a9.js"
+        }
+      ]
+    },
+    "1651": {
+      "js": [
+        {
+          "file": "assets/js/3928c94f.4a11ef74.js",
+          "hash": "e6bbebf284a954e4",
+          "publicPath": "/textbook/assets/js/3928c94f.4a11ef74.js"
+        }
+      ]
+    },
+    "1859": {
+      "js": [
+        {
+          "file": "assets/js/0c8f655e.e910ee5f.js",
+          "hash": "1bca206c0ef25d4e",
+          "publicPath": "/textbook/assets/js/0c8f655e.e910ee5f.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.5b85e8a3.css",
+          "hash": "b308eaaf8b14d969",
+          "publicPath": "/textbook/assets/css/styles.5b85e8a3.css"
+        }
+      ]
+    },
+    "2013": {
+      "js": [
+        {
+          "file": "assets/js/242b638a.a9d64cfc.js",
+          "hash": "2ba425b909a71528",
+          "publicPath": "/textbook/assets/js/242b638a.a9d64cfc.js"
+        }
+      ]
+    },
+    "2101": {
+      "js": [
+        {
+          "file": "assets/js/3613bb70.41a0772b.js",
+          "hash": "37c763e1761ac626",
+          "publicPath": "/textbook/assets/js/3613bb70.41a0772b.js"
+        }
+      ]
+    },
+    "2144": {
+      "js": [
+        {
+          "file": "assets/js/32356006.21d1295d.js",
+          "hash": "dbe8ca947241a117",
+          "publicPath": "/textbook/assets/js/32356006.21d1295d.js"
+        }
+      ]
+    },
+    "2233": {
+      "js": [
+        {
+          "file": "assets/js/cfb642fa.3c87bde9.js",
+          "hash": "5e8fa05c54fe91ca",
+          "publicPath": "/textbook/assets/js/cfb642fa.3c87bde9.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.713008f0.js",
+          "hash": "dfe14bfe3fffcf15",
+          "publicPath": "/textbook/assets/js/2237.713008f0.js"
+        }
+      ]
+    },
+    "2634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.9e4abc19.js",
+          "hash": "3d3092f74d92e5dd",
+          "publicPath": "/textbook/assets/js/c4f5d8e4.9e4abc19.js"
+        }
+      ]
+    },
+    "2695": {
+      "js": [
+        {
+          "file": "assets/js/5c3c75e1.05dfd907.js",
+          "hash": "6a477127b9489fd1",
+          "publicPath": "/textbook/assets/js/5c3c75e1.05dfd907.js"
+        }
+      ]
+    },
+    "2902": {
+      "js": [
+        {
+          "file": "assets/js/4d971954.2d3def8e.js",
+          "hash": "326099023001f251",
+          "publicPath": "/textbook/assets/js/4d971954.2d3def8e.js"
+        }
+      ]
+    },
+    "3139": {
+      "js": [
+        {
+          "file": "assets/js/20ab22a4.98143a95.js",
+          "hash": "4599c00bf46813de",
+          "publicPath": "/textbook/assets/js/20ab22a4.98143a95.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/15fcbb01.3d1cc60f.js",
+          "hash": "adf493f45ce2e30f",
+          "publicPath": "/textbook/assets/js/15fcbb01.3d1cc60f.js"
+        }
+      ]
+    },
+    "3631": {
+      "js": [
+        {
+          "file": "assets/js/03e23960.92558d8e.js",
+          "hash": "921606ca09c1b8e6",
+          "publicPath": "/textbook/assets/js/03e23960.92558d8e.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.add68c6d.js",
+          "hash": "fc8395c9f7977897",
+          "publicPath": "/textbook/assets/js/0e384e19.add68c6d.js"
+        }
+      ]
+    },
+    "4000": {
+      "js": [
+        {
+          "file": "assets/js/fa698c00.b130aee8.js",
+          "hash": "579ce5fa640e38b9",
+          "publicPath": "/textbook/assets/js/fa698c00.b130aee8.js"
+        }
+      ]
+    },
+    "4378": {
+      "js": [
+        {
+          "file": "assets/js/2c1abae2.96ddb437.js",
+          "hash": "1c1f82c7ebc414ae",
+          "publicPath": "/textbook/assets/js/2c1abae2.96ddb437.js"
+        }
+      ]
+    },
+    "4459": {
+      "js": [
+        {
+          "file": "assets/js/7f8c421a.8f9261f5.js",
+          "hash": "f8f99384f0b5f80c",
+          "publicPath": "/textbook/assets/js/7f8c421a.8f9261f5.js"
+        }
+      ]
+    },
+    "5003": {
+      "js": [
+        {
+          "file": "assets/js/b434db5b.637d5eba.js",
+          "hash": "5a8e09b2bc02c60c",
+          "publicPath": "/textbook/assets/js/b434db5b.637d5eba.js"
+        }
+      ]
+    },
+    "5281": {
+      "js": [
+        {
+          "file": "assets/js/00331d58.19912737.js",
+          "hash": "70c8da2a04fc89ac",
+          "publicPath": "/textbook/assets/js/00331d58.19912737.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.a2f687d7.js",
+          "hash": "3e1aa91c5b6a789b",
+          "publicPath": "/textbook/assets/js/runtime~main.a2f687d7.js"
+        }
+      ]
+    },
+    "5566": {
+      "js": [
+        {
+          "file": "assets/js/1880acaa.d36b3bfc.js",
+          "hash": "49ec39f5b30ed89f",
+          "publicPath": "/textbook/assets/js/1880acaa.d36b3bfc.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.d70849ed.js",
+          "hash": "cf96dcc05e05c58c",
+          "publicPath": "/textbook/assets/js/aba21aa0.d70849ed.js"
+        }
+      ]
+    },
+    "5774": {
+      "js": [
+        {
+          "file": "assets/js/9d271101.d5af9ae3.js",
+          "hash": "4e7f77677b4a6781",
+          "publicPath": "/textbook/assets/js/9d271101.d5af9ae3.js"
+        }
+      ]
+    },
+    "5968": {
+      "js": [
+        {
+          "file": "assets/js/78d65146.9855404b.js",
+          "hash": "1888f39ba3f04ccd",
+          "publicPath": "/textbook/assets/js/78d65146.9855404b.js"
+        }
+      ]
+    },
+    "6103": {
+      "js": [
+        {
+          "file": "assets/js/15518fe9.39adb905.js",
+          "hash": "d4f67dfb2821b19a",
+          "publicPath": "/textbook/assets/js/15518fe9.39adb905.js"
+        }
+      ]
+    },
+    "6200": {
+      "js": [
+        {
+          "file": "assets/js/e7f796c2.26f99c8c.js",
+          "hash": "b43d8a0e5d2461a5",
+          "publicPath": "/textbook/assets/js/e7f796c2.26f99c8c.js"
+        }
+      ]
+    },
+    "6362": {
+      "js": [
+        {
+          "file": "assets/js/0de35cb3.f9a0118a.js",
+          "hash": "7d2bfe4c57aecde1",
+          "publicPath": "/textbook/assets/js/0de35cb3.f9a0118a.js"
+        }
+      ]
+    },
+    "7051": {
+      "js": [
+        {
+          "file": "assets/js/e747ec83.5dd93642.js",
+          "hash": "88ed49729d6205d6",
+          "publicPath": "/textbook/assets/js/e747ec83.5dd93642.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.e1fde779.js",
+          "hash": "8e16e2e50e53bd09",
+          "publicPath": "/textbook/assets/js/a7bd4aaa.e1fde779.js"
+        }
+      ]
+    },
+    "7597": {
+      "js": [
+        {
+          "file": "assets/js/c1ea27b3.b69eb828.js",
+          "hash": "b599f55f017809f1",
+          "publicPath": "/textbook/assets/js/c1ea27b3.b69eb828.js"
+        }
+      ]
+    },
+    "7761": {
+      "js": [
+        {
+          "file": "assets/js/50387d27.f103ec3a.js",
+          "hash": "151582836e5215b6",
+          "publicPath": "/textbook/assets/js/50387d27.f103ec3a.js"
+        }
+      ]
+    },
+    "7863": {
+      "js": [
+        {
+          "file": "assets/js/87c47bb3.ba965819.js",
+          "hash": "c05fb6f73ee72896",
+          "publicPath": "/textbook/assets/js/87c47bb3.ba965819.js"
+        }
+      ]
+    },
+    "7909": {
+      "js": [
+        {
+          "file": "assets/js/3709f09d.ff726978.js",
+          "hash": "f7689a60e4f01c9c",
+          "publicPath": "/textbook/assets/js/3709f09d.ff726978.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.45c6e6a7.js",
+          "hash": "53fd486b89d0b4ab",
+          "publicPath": "/textbook/assets/js/17896441.45c6e6a7.js"
+        }
+      ]
+    },
+    "8502": {
+      "js": [
+        {
+          "file": "assets/js/83648cb5.51dfd2fe.js",
+          "hash": "3da92bd0c636ee04",
+          "publicPath": "/textbook/assets/js/83648cb5.51dfd2fe.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.4b3d9e3e.js",
+          "hash": "b7b7c52c2d5d4a63",
+          "publicPath": "/textbook/assets/js/main.4b3d9e3e.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.08e15d73.js",
+          "hash": "41c3c5d505edb7f4",
+          "publicPath": "/textbook/assets/js/a94703ab.08e15d73.js"
+        }
+      ]
+    },
+    "9051": {
+      "js": [
+        {
+          "file": "assets/js/0873ceb0.d878b3c7.js",
+          "hash": "4577dedfe5ab0a5e",
+          "publicPath": "/textbook/assets/js/0873ceb0.d878b3c7.js"
+        }
+      ]
+    },
+    "9191": {
+      "js": [
+        {
+          "file": "assets/js/1766c913.b7f21fd8.js",
+          "hash": "954952db34a5d5e6",
+          "publicPath": "/textbook/assets/js/1766c913.b7f21fd8.js"
+        }
+      ]
+    },
+    "9204": {
+      "js": [
+        {
+          "file": "assets/js/09bc6df3.7145185e.js",
+          "hash": "1186d209eebc600e",
+          "publicPath": "/textbook/assets/js/09bc6df3.7145185e.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.603c248f.js",
+          "hash": "7a038957d75b38fe",
+          "publicPath": "/textbook/assets/js/5e95c892.603c248f.js"
+        }
+      ]
+    },
+    "9968": {
+      "js": [
+        {
+          "file": "assets/js/8f136eb8.4a6fa34d.js",
+          "hash": "dfd17ee58b4282d8",
+          "publicPath": "/textbook/assets/js/8f136eb8.4a6fa34d.js"
         }
       ]
     }

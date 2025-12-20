@@ -1,0 +1,37 @@
+{
+  "id": "module-4-vla/chapter-2-speech-recognition",
+  "title": "Speech Recognition for Robotics with OpenAI Whisper",
+  "description": "Implementing speech recognition systems for humanoid robots using OpenAI Whisper and other speech-to-text technologies",
+  "source": "@site/docs/module-4-vla/chapter-2-speech-recognition.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/chapter-2-speech-recognition",
+  "permalink": "/textbook/docs/module-4-vla/chapter-2-speech-recognition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-4-vla/chapter-2-speech-recognition.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Speech Recognition for Robotics with OpenAI Whisper",
+    "sidebar_position": 3,
+    "description": "Implementing speech recognition systems for humanoid robots using OpenAI Whisper and other speech-to-text technologies",
+    "keywords": [
+      "speech recognition",
+      "OpenAI Whisper",
+      "speech-to-text",
+      "robotics",
+      "natural language processing",
+      "humanoid AI"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision-Language-Action Systems Overview",
+    "permalink": "/textbook/docs/module-4-vla/chapter-1-vla-overview"
+  },
+  "next": {
+    "title": "LLM-Based Task Planning for Robotics",
+    "permalink": "/textbook/docs/module-4-vla/chapter-3-llm-planning"
+  }
+}

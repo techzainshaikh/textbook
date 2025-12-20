@@ -1,0 +1,39 @@
+{
+  "id": "module-2-digital-twin/chapter-4-capstone-integration",
+  "title": "Capstone Project - Complete Physical AI System Integration",
+  "description": "Integrating all modules into a complete humanoid robotics system",
+  "source": "@site/docs/module-2-digital-twin/chapter-4-capstone-integration.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/chapter-4-capstone-integration",
+  "permalink": "/textbook/docs/module-2-digital-twin/chapter-4-capstone-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-2-digital-twin/chapter-4-capstone-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Capstone Project - Complete Physical AI System Integration",
+    "sidebar_position": 6,
+    "description": "Integrating all modules into a complete humanoid robotics system",
+    "keywords": [
+      "capstone",
+      "integration",
+      "humanoid robot",
+      "ros2",
+      "gazebo",
+      "unity",
+      "nvidia isaac",
+      "vla"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity Visualization for Human-Robot Interaction",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-4-unity-visualization"
+  },
+  "next": {
+    "title": "Module 2 Summary - The Digital Twin",
+    "permalink": "/textbook/docs/module-2-digital-twin/module-summary"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "module-4-vla/chapter-3-llm-planning",
+  "title": "LLM-Based Task Planning for Robotics",
+  "description": "Implementing Large Language Model-based planning systems for humanoid robots to decompose high-level commands into executable action sequences",
+  "source": "@site/docs/module-4-vla/chapter-3-llm-planning.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/chapter-3-llm-planning",
+  "permalink": "/textbook/docs/module-4-vla/chapter-3-llm-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-4-vla/chapter-3-llm-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "LLM-Based Task Planning for Robotics",
+    "sidebar_position": 4,
+    "description": "Implementing Large Language Model-based planning systems for humanoid robots to decompose high-level commands into executable action sequences",
+    "keywords": [
+      "LLM planning",
+      "task decomposition",
+      "robotics",
+      "humanoid AI",
+      "natural language processing",
+      "action sequences"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Speech Recognition for Robotics with OpenAI Whisper",
+    "permalink": "/textbook/docs/module-4-vla/chapter-2-speech-recognition"
+  },
+  "next": {
+    "title": "ROS 2 Actions for VLA Systems",
+    "permalink": "/textbook/docs/module-4-vla/chapter-4-ros2-actions"
+  }
+}

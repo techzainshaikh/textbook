@@ -7,10 +7,10 @@ export default {
   "title": "Physical AI and Humanoid Robotics Textbook",
   "tagline": "Bridging AI software intelligence with physical robotic embodiment",
   "favicon": "img/favicon.ico",
-  "url": "https://physical-ai-book-humanoid.pages.dev",
-  "baseUrl": "/",
-  "organizationName": "Panaversity",
-  "projectName": "physical_ai_book_humanoid",
+  "url": "https://techzainshaikh.github.io",
+  "baseUrl": "/textbook/",
+  "organizationName": "techzainshaikh",
+  "projectName": "textbook",
   "trailingSlash": false,
   "onBrokenLinks": "warn",
   "i18n": {
@@ -58,7 +58,7 @@ export default {
     "navbar": {
       "title": "Physical AI & Humanoid Robotics",
       "logo": {
-        "alt": "Physical AI Logo",
+        "alt": "Physical AI & Humanoid Robotics Logo",
         "src": "img/logo.svg"
       },
       "items": [

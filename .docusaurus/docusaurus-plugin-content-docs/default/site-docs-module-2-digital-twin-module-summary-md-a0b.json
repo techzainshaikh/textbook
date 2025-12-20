@@ -1,0 +1,37 @@
+{
+  "id": "module-2-digital-twin/module-summary",
+  "title": "Module 2 Summary - The Digital Twin",
+  "description": "Comprehensive summary of the Digital Twin (simulation and visualization) module",
+  "source": "@site/docs/module-2-digital-twin/module-summary.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/module-summary",
+  "permalink": "/textbook/docs/module-2-digital-twin/module-summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-2-digital-twin/module-summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Module 2 Summary - The Digital Twin",
+    "sidebar_position": 7,
+    "description": "Comprehensive summary of the Digital Twin (simulation and visualization) module",
+    "keywords": [
+      "digital twin",
+      "simulation",
+      "gazebo",
+      "unity",
+      "robotics",
+      "textbook"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone Project - Complete Physical AI System Integration",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-4-capstone-integration"
+  },
+  "next": {
+    "title": "Introduction to AI-Robot Brain",
+    "permalink": "/textbook/docs/module-3-ai-brain/intro"
+  }
+}

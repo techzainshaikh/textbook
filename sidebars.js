@@ -30,6 +30,50 @@ const sidebars = {
         'module-1-ros2/module-summary'
       ],
     },
+    {
+      type: 'category',
+      label: 'Module 2: The Digital Twin (Gazebo & Unity)',
+      items: [
+        'module-2-digital-twin/intro',
+        'module-2-digital-twin/chapter-1-physics-simulation',
+        'module-2-digital-twin/chapter-2-sensor-simulation',
+        'module-2-digital-twin/chapter-3-environment-modeling',
+        'module-2-digital-twin/chapter-4-unity-visualization',
+        'module-2-digital-twin/chapter-4-capstone-integration',
+        'module-2-digital-twin/module-summary'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Module 3: The AI-Robot Brain (NVIDIA Isaac™)',
+      items: [
+        'module-3-ai-brain/intro',
+        'module-3-ai-brain/chapter-1-isaac-platform',
+        'module-3-ai-brain/chapter-2-synthetic-data',
+        'module-3-ai-brain/chapter-3-perception-pipelines',
+        'module-3-ai-brain/chapter-4-nav2-planning',
+        'module-3-ai-brain/chapter-5-reinforcement-learning',
+        'module-3-ai-brain/chapter-6-sim-to-real'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Module 4: Vision-Language-Action (VLA)',
+      items: [
+        'module-4-vla/intro',
+        'module-4-vla/chapter-1-vla-overview',
+        'module-4-vla/chapter-2-speech-recognition',
+        'module-4-vla/chapter-3-llm-planning',
+        'module-4-vla/chapter-4-ros2-actions',
+        'module-4-vla/chapter-5-multimodal-perception',
+        'module-4-vla/module-summary'
+      ],
+    },
+    {
+      type: 'doc',
+      id: 'capstone-project',
+      label: 'Capstone Project',
+    },
   ],
 };
 

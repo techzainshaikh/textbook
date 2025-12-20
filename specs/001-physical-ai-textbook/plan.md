@@ -1,7 +1,7 @@
-# Implementation Plan: Physical AI and Humanoid Robotics Textbook
+# Implementation Plan: [FEATURE]
 
-**Branch**: `001-physical-ai-textbook` | **Date**: 2025-12-19 | **Spec**: specs/001-physical-ai-textbook/spec.md
-**Input**: Feature specification from `/specs/001-physical-ai-textbook/spec.md`
+**Branch**: `[###-feature-name]` | **Date**: [DATE] | **Spec**: [link]
+**Input**: Feature specification from `/specs/[###-feature-name]/spec.md`
 
 **Note**: This template is filled in by the `/sp.plan` command. See `.specify/templates/commands/plan.md` for the execution workflow.
 
@@ -101,16 +101,13 @@ docs/
 │   └── end-to-end-project.md
 ├── exercises/
 └── examples/
-
 static/
 ├── img/
 └── robots.txt
-
 src/
 ├── components/
 ├── pages/
 └── css/
-
 .babelrc
 .docusaurus/
 .gitignore
@@ -129,4 +126,5 @@ sidebars.js
 
 | Violation | Why Needed | Simpler Alternative Rejected Because |
 |-----------|------------|-------------------------------------|
-| N/A | N/A | N/A |
+| [e.g., 4th project] | [current need] | [why 3 projects insufficient] |
+| [e.g., Repository pattern] | [specific problem] | [why direct DB access insufficient] |

@@ -1,0 +1,36 @@
+{
+  "id": "module-2-digital-twin/intro",
+  "title": "Introduction to Digital Twin",
+  "description": "Introduction to Digital Twin concepts with Gazebo and Unity",
+  "source": "@site/docs/module-2-digital-twin/intro.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/intro",
+  "permalink": "/textbook/docs/module-2-digital-twin/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Panaversity/physical_ai_book_humanoid/tree/main/docs/module-2-digital-twin/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Digital Twin",
+    "sidebar_position": 1,
+    "description": "Introduction to Digital Twin concepts with Gazebo and Unity",
+    "keywords": [
+      "digital twin",
+      "gazebo",
+      "unity",
+      "simulation",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module Summary",
+    "permalink": "/textbook/docs/module-1-ros2/module-summary"
+  },
+  "next": {
+    "title": "Physics Simulation in Gazebo",
+    "permalink": "/textbook/docs/module-2-digital-twin/chapter-1-physics-simulation"
+  }
+}
